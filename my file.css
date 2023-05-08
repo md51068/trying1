@@ -1,0 +1,50 @@
+body{
+  font-family: 'Poppins', sans-serif;
+}
+#first{
+  backdrop-filter: blur(2px);
+  text-align: center;
+  color: grey;
+  font-size:x-large;
+}
+#second{
+  background: url('https://www.highreshdwallpapers.com/wp-content/uploads/2015/02/Glowing-City-Night.jpg');
+  backdrop-filter: blur(399px);
+  background-repeat: no-repeat; 
+  background-size: cover;
+  background-position: center;
+  margin-left: 36%;
+border: 1px solid;
+width: 400px;
+height: 500px;
+margin-top: 5%;
+}
+#third{
+margin-left: 13%;
+}
+#fourth{
+margin-top:20% ;
+}
+#fiveth{
+margin-left: 30%;
+margin-top: -11%;
+margin-bottom: 20%;
+}
+#sixth{
+  margin-top: 10%;
+}
+.sign_in{
+  
+  border: 1px solid ;
+  margin-right: 15%;
+  border-radius: 15px;
+  height: 25px;
+  text-align: center;
+  background-color: #0679f3;
+  border-color: #0679f3;
+}
+#sign{
+  margin-top: 1%;
+  
+}
+
